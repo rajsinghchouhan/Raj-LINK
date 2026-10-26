@@ -1,0 +1,8 @@
+{
+  "name": "SwitchLink - Dynamic URL Router & QR Hub",
+  "description": "Create permanent dynamic redirect URLs and QR codes. Change the destination URL or display mode anytime in real-time with full analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,130 @@
+[
+  {
+    "id": "link-promo-1",
+    "slug": "promo",
+    "title": "Festival Mega Sale / Packaging QR",
+    "destinationUrl": "https://news.ycombinator.com",
+    "createdAt": "2026-10-23T19:29:09.279Z",
+    "updatedAt": "2026-10-26T20:02:24.613Z",
+    "status": "active",
+    "mode": "splash",
+    "tags": [
+      "marketing",
+      "flyer",
+      "qr"
+    ],
+    "notes": "Printed on 5,000 brochures and packaging boxes. Destination can be swapped anytime!",
+    "clicks": 150,
+    "splashSettings": {
+      "title": "Festival Mega Offer! 🎉",
+      "message": "You are being redirected to our exclusive promotional destination. Enjoy special gifts and discounts!",
+      "countdownSeconds": 4,
+      "buttonText": "Proceed to Target Website Now",
+      "showPreview": true,
+      "themeColor": "#4f46e5"
+    }
+  },
+  {
+    "id": "link-insta-2",
+    "slug": "instagram",
+    "title": "Instagram Bio Link Router",
+    "destinationUrl": "https://instagram.com",
+    "createdAt": "2026-10-19T19:29:09.280Z",
+    "updatedAt": "2026-10-26T20:02:24.613Z",
+    "status": "active",
+    "mode": "direct",
+    "tags": [
+      "social",
+      "bio"
+    ],
+    "notes": "Permanent link placed on Instagram and Twitter bios. Direct 302 instant redirect.",
+    "clicks": 421
+  },
+  {
+    "id": "link-device-3",
+    "slug": "app-download",
+    "title": "Mobile App Smart Router (iOS / Android / Web)",
+    "destinationUrl": "https://google.com",
+    "createdAt": "2026-10-21T19:29:09.280Z",
+    "updatedAt": "2026-10-26T20:02:24.613Z",
+    "status": "active",
+    "mode": "device",
+    "tags": [
+      "mobile",
+      "app-store"
+    ],
+    "notes": "Smart device detection: iPhones go to App Store, Android phones go to Play Store, PC goes to Web Portal.",
+    "clicks": 297,
+    "deviceRules": {
+      "iosUrl": "https://apps.apple.com",
+      "androidUrl": "https://play.google.com/store",
+      "desktopUrl": "https://google.com"
+    }
+  },
+  {
+    "id": "link-bio-4",
+    "slug": "my-links",
+    "title": "Personal Micro-Landing & Bio Page",
+    "destinationUrl": "https://example.com",
+    "createdAt": "2026-10-16T19:29:09.280Z",
+    "updatedAt": "2026-10-26T20:02:24.613Z",
+    "status": "active",
+    "mode": "bio",
+    "tags": [
+      "creator",
+      "portfolio"
+    ],
+    "notes": "All-in-one link hub showing social icons and custom action buttons.",
+    "clicks": 86,
+    "bioSettings": {
+      "displayName": "Raj Singh Chouhan",
+      "bioText": "Creator, Developer & Tech Explorer 🚀 Click any link below to connect!",
+      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&h=200&fit=crop",
+      "links": [
+        {
+          "id": "b1",
+          "label": "⭐ Visit My Official Website",
+          "url": "https://example.com",
+          "icon": "star"
+        },
+        {
+          "id": "b2",
+          "label": "📺 Subscribe on YouTube",
+          "url": "https://youtube.com",
+          "icon": "video"
+        },
+        {
+          "id": "b3",
+          "label": "💬 Chat on WhatsApp / Telegram",
+          "url": "https://telegram.org",
+          "icon": "message"
+        }
+      ],
+      "socials": {
+        "youtube": "https://youtube.com",
+        "instagram": "https://instagram.com"
+      }
+    }
+  },
+  {
+    "id": "link-cloak-5",
+    "slug": "portfolio-masked",
+    "title": "Cloaked Frame Showcase",
+    "destinationUrl": "https://en.wikipedia.org/wiki/Special:Random",
+    "createdAt": "2026-10-24T19:29:09.280Z",
+    "updatedAt": "2026-10-26T20:02:24.613Z",
+    "status": "active",
+    "mode": "cloak",
+    "tags": [
+      "masked",
+      "brand"
+    ],
+    "notes": "Loads destination inside a full-screen frame while keeping your brand URL in address bar.",
+    "clicks": 54,
+    "cloakSettings": {
+      "pageTitle": "Official Partner Showcase",
+      "showBanner": true,
+      "bannerNotice": "⚡ Viewing through SwitchLink Smart Router — URL stays masked"
+    }
+  }
+]

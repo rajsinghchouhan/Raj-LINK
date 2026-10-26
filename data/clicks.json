@@ -1,0 +1,62 @@
+[
+  {
+    "id": "clk-1793043271318-5llc",
+    "linkId": "link-insta-2",
+    "slug": "instagram",
+    "timestamp": "2026-10-26T19:34:31.318Z",
+    "userAgent": "curl/7.88.1",
+    "device": "other",
+    "browser": "Browser",
+    "os": "Unknown OS",
+    "referrer": "Direct Visit",
+    "targetDestination": "https://instagram.com"
+  },
+  {
+    "id": "clk-1793043275923-vskp",
+    "linkId": "link-promo-1",
+    "slug": "promo",
+    "timestamp": "2026-10-26T19:34:35.923Z",
+    "userAgent": "curl/7.88.1",
+    "device": "other",
+    "browser": "Browser",
+    "os": "Unknown OS",
+    "referrer": "Direct Visit",
+    "targetDestination": "https://news.ycombinator.com"
+  },
+  {
+    "id": "clk-1793043281629-3eql",
+    "linkId": "link-promo-1",
+    "slug": "promo",
+    "timestamp": "2026-10-26T19:34:41.629Z",
+    "userAgent": "curl/7.88.1",
+    "device": "other",
+    "browser": "Browser",
+    "os": "Unknown OS",
+    "referrer": "Direct Visit",
+    "targetDestination": "https://news.ycombinator.com"
+  },
+  {
+    "id": "clk-1793043287275-rj06",
+    "linkId": "link-device-3",
+    "slug": "app-download",
+    "timestamp": "2026-10-26T19:34:47.275Z",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X)",
+    "device": "ios",
+    "browser": "Browser",
+    "os": "iOS",
+    "referrer": "Direct Visit",
+    "targetDestination": "https://apps.apple.com"
+  },
+  {
+    "id": "clk-1793043291446-io2g",
+    "linkId": "link-device-3",
+    "slug": "app-download",
+    "timestamp": "2026-10-26T19:34:51.446Z",
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-G998B) Mobile Safari/537.36",
+    "device": "android",
+    "browser": "Safari",
+    "os": "Android",
+    "referrer": "Direct Visit",
+    "targetDestination": "https://play.google.com/store"
+  }
+]
